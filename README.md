@@ -52,7 +52,7 @@ Step 5
 How to merge one branch with another
 =================================
 
-# When you have finished working on a branch ie a 'develop' branch, you will want to merge the changes you have done to the master branch, this is relatively simple.  
+When you have finished working on a branch ie a 'develop' branch, you will want to merge the changes you have done to the master branch, this is relatively simple.  
 
 Step 1
 ------
