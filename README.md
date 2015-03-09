@@ -10,6 +10,17 @@ This was initially a practice tutorial conducted by myself on how to learn Git -
 
 Read this README on more if you want to know the easy method on how to get your projects started on Github!
 
+**List of basic commands:**  
+
+**git status** - gives you a status, literally, anything bad will tell you!
+**git clone** - (followed by the https://etc) use this to grab the URLs off GitHub to copy the folders from GitHub onto your local machine  
+**git checkout** (followed by name of a branch) - use this to switch or create a branch on the terminal/command line  
+**git commit** - m "description here" - use this to commit changes you have made and to add a description  
+**git add** - to add files, do this before using the commiting command  
+**git push** - pretty much what it says on the tin, pushes everything you have done back to the repository  
+**git merge** - use git checkout to enter the master branch or whatever, use this command to merge changes you have been working on to add into the current branch you are in  
+
+
 # How to make clones, check status, commiting and pushing without making a new branch. (STAGE 1, we will get to merging later.)
 
 Step 1
@@ -36,7 +47,7 @@ Step 4
 
 Step 5 
 ------ 
-Done!
+**Done!**
 
 
 
