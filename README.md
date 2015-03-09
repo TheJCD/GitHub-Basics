@@ -49,6 +49,36 @@ Step 5
 ------ 
 **Done!**
 
+How to merge one branch with another
+=================================
+
+# When you have finished working on a branch ie a 'develop' branch, you will want to merge the changes you have done to the master branch, this is relatively simple.  
+
+Step 1
+------
+
+* Checkout to the branch that will receive the merge - git checkout master  
+
+Step 2
+------
+* Type in the command git merge [then type in here the name of the branch that you were working in]  
+
+Step 3
+------
+* Hit return and the changes made in 'develop' will be merged with the master  
+
+Step 4
+------
+* All you have to do now is do a git push to push the code into GitHub.com!  
+
+How to delete branches locally and remotely
+==============================
+
+* Use the command git branch -d [name of branch] to delete a branch you have made locally  
+* If you want to delete a branch locally and remotely use the command git push origin -- delete [name of branch]  
+
+
+
 
 
 
